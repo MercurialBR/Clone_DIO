@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Clone_DIO
+
+![screenbud-bf329819-4d07-442e-afee-9f88506f0873](https://user-images.githubusercontent.com/63432907/207518979-9b881afe-d149-4a6f-9e74-f1e8b2f61974.png)
+![screenbud-318b2cc5-e7b1-4ca3-88f9-5f9192eb4608](https://user-images.githubusercontent.com/63432907/207518988-f21eb950-e4eb-421c-bc4c-3f3b969c1a4d.png)
+![screenbud-e2444582-e4cb-4b26-99ff-cf967b9ad500](https://user-images.githubusercontent.com/63432907/207518993-fd64aecd-8a26-4e23-aa62-b5c443b9111a.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
